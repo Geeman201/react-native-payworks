@@ -11,6 +11,5 @@
     "react": "*",
     "react-native": "*"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
